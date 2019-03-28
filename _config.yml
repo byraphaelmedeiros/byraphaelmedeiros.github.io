@@ -38,8 +38,8 @@ avatar_img_path: "https://avatars2.githubusercontent.com/u/1038492"
 
 
 front_img: yes
-front_img_path: "imgs/background.jpg"
-#front_img_path: "https://external.url/image.jpg"
+#front_img_path: "imgs/background.jpg"
+front_img_path: "https://i.pinimg.com/originals/e0/ad/78/e0ad783170137c9587414cef9cb4752d.jpg"
 
 
 favicon_img: yes
